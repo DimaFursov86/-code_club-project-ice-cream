@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://Prykhodko-Pasha.github.io/code_club-project",
+  "homepage": "https://DimaFursov86.github.io/-code_club-project-ice-cream",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /code_club-project/"
+    "build": "parcel build src/*.html --public-url /-code_club-project-ice-cream/"
   },
   "repository": {
     "type": "git",
